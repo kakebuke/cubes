@@ -1,0 +1,21 @@
+body {
+	font: 75% "Lucida Grande", "Trebuchet MS", Verdana, sans-serif;
+	color: #ccc;
+	margin: 0px;
+	padding: 0px;
+}
+
+section#main {
+	width: 500px;
+	height: 500px;
+	border: 1px solid #ccc;
+	margin: 20px auto;
+}
+
+header {
+	height: 80px;
+	background-color: #444;
+	color: #fff;
+	font-size: 24px;
+	padding: 10px;
+}
